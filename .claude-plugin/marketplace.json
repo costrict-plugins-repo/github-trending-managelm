@@ -1,0 +1,15 @@
+{
+  "name": "managelm",
+  "description": "The ManageLM plugin for Claude Code: manage Linux and Windows servers with natural language.",
+  "owner": {
+    "name": "ManageLM",
+    "url": "https://www.managelm.com"
+  },
+  "plugins": [
+    {
+      "name": "managelm",
+      "source": "./",
+      "description": "Remote server management through ManageLM — manage Linux and Windows servers, run tasks, transfer files, and monitor infrastructure using natural language."
+    }
+  ]
+}
